@@ -1,6 +1,6 @@
 ## The Screenshots of Application
 
-### HomeScreen
+### Onboarding Screen
 ![Image](https://github.com/user-attachments/assets/eeaa1a1d-f0e8-4bd9-8139-e6134ee2c70b)
 
 ### Sign in Screen
