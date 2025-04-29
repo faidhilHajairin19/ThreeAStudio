@@ -8,3 +8,6 @@
 
 ### Login Screen
 ![Image](https://github.com/user-attachments/assets/3017be87-4d3d-4785-9e5d-2eab3acab6b0)
+
+### HomeScreen
+![Image](https://github.com/user-attachments/assets/337ce261-482a-45c7-85d2-1f75750f1a2e)
